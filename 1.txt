@@ -1,6 +1,11 @@
 first line
 second line
 the third line
+<<<<<<< HEAD
 this is the fourth line
 
 this is a new line
+=======
+a new line
+this is the fourth line
+>>>>>>> e69a2b671d71ed8270149e242fbffa1d60239e3b
